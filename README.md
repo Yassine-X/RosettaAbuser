@@ -34,4 +34,4 @@ Before you get started, make sure you have:
 - For best performance, use the latest version of your browser.  
 
 ## 💬 Support  
-If you encounter any issues or need further assistance, feel free to open an issue on the GitHub repository or contact the project maintainers directly.
+If you encounter any issues or need further assistance, feel free to open an issue on the GitHub repository or contact the project maintainers directly on [Discord](https://discord.gg/W7dpT89r3H).
