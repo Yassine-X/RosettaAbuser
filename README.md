@@ -1,7 +1,7 @@
-# RosetaFucker  
+# RosettaAbuser  
 *Automated Task Script for Rosetta Stone Fluency Builder*
 
-Streamline your learning experience with RosetaFucker, a browser-based script that automates repetitive tasks in Rosetta Stone's Fluency Builder. Save time and increase productivity with task automation and real-time session tracking.
+Streamline your learning experience with RosettaAbuser, a browser-based script that automates repetitive tasks in Rosetta Stone's Fluency Builder. Save time and increase productivity with task automation and real-time session tracking.
 
 ## 🚀 Features  
 - **Automated Task Execution:** Automates various activities in Fluency Builder to reduce manual input.  
