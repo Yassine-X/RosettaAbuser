@@ -30,7 +30,7 @@ Before you get started, make sure you have:
    The script will automatically start running, executing tasks and tracking your session's progress.
 
 ## 📝 Notes  
-- This script is designed for educational use only. Ensure it complies with Rosetta Stone’s terms of service before using it.  
+- Use it at your own risk ! 
 - For best performance, use the latest version of your browser.  
 
 ## 💬 Support  
